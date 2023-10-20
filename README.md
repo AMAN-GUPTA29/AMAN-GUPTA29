@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aman.g21@iiits.in**
 
-- 📄 Know about my experiences [https://github.com/AMAN-GUPTA29/Resume/blob/main/Resume_Aman%20Gupta.pdf](https://github.com/AMAN-GUPTA29/Resume/blob/main/Resume_Aman%20Gupta.pdf)
+- 📄 Know about my experiences [https://github.com/AMAN-GUPTA29/Resume/blob/main/AmanGupta_Resume.pdf](https://github.com/AMAN-GUPTA29/Resume/blob/main/AmanGupta_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
