@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-gupta29&" alt="aman-gupta29" /></p>
 
-Update on online badges. If you want to avoid the text on the badge, you can just use below code -
 
 <p>
     <img src="https://api.vaunt.dev/v1/github/entities/github_username/achievements?format=svg&limit=3&raw=true" width="350" />
