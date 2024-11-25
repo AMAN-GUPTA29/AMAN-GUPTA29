@@ -3,13 +3,7 @@
 <h3 align="center">A passionate developer from India. Student of Indian Institute of Information Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Locally(local service provider college project)](https://github.com/AMAN-GUPTA29/FFSD_proj_locally.git)
-
-- 🌱 I’m currently learning **Full Stack, Python, React, ML**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AMAN-GUPTA29](https://github.com/AMAN-GUPTA29)
-
-- 💬 Ask me about **Web Development, Flutter, C, C++**
 
 - 📫 How to reach me **aman.g21@iiits.in**
 
